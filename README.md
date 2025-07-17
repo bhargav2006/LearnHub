@@ -26,11 +26,11 @@ LearnHub is an open-source platform focused on delivering a collaborative learni
 
 Watch the complete project walkthrough and implementation below:
 
-<video src="Video Demo/project-implementation.mp4" controls width="100%" style="max-width:700px;">
+<video src="https://drive.google.com/file/d/1nfsQX3Ui_Sw-8ryZlVz0J_oTl-J6l4qg/view?usp=drivesdk" controls width="100%" style="max-width:700px;">
   Your browser does not support the video tag.
 </video>
 
-Or [click here to view the video directly.](Video%20Demo/project-implementation.mp4)
+Or [click here to view the video directly.](https://drive.google.com/file/d/1nfsQX3Ui_Sw-8ryZlVz0J_oTl-J6l4qg/view?usp=drivesdk)
 
 ---
 
